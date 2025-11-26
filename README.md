@@ -43,6 +43,8 @@ To create a 3D model from given orthographic projection.
 
 ## OUTPUT:
 
+<img width="1236" height="872" alt="EDM EX NO 3 2" src="https://github.com/user-attachments/assets/f3469e13-29c6-46cd-8f8c-9a2922a90737" />
+
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
 
